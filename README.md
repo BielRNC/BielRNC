@@ -1,127 +1,278 @@
 
-<!-- GABRIEL ROCHA | DARK WINE CYBER SYSTEM -->
+<!--
+  GABRIEL ROCHA | BIELRNC
+  IDENTIDADE VISUAL: VINHO ESCURO / CYBERPUNK
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08080A,50:310B16,100:6B172D&text=GABRIEL%20ROCHA&fontColor=E8E5E7&fontSize=44&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%7C%20SYSTEM%20ONLINE&descAlignY=58&descSize=14&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08080A,50:310B16,100:6B172D&text=GABRIEL%20ROCHA&fontColor=E8E5E7&fontSize=44&fontAlignY=38&desc=DESENVOLVIMENTO%20BACKEND%20%7C%20INTELIGENCIA%20ARTIFICIAL&descAlignY=58&descSize=13&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=9E263F&center=true&vCenter=true&width=650&lines=%5BSYSTEM+BOOT%5D+Initializing+workspace...;Backend+Development+%7C+Node.js+%7C+Java;Engineering+solutions+through+code.;Welcome+to+my+digital+environment."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=9E263F&center=true&vCenter=true&width=650&lines=%5BINICIALIZANDO+SISTEMA%5D+BielRNC...;Desenvolvedor+Java+em+formacao;Backend+%7C+Inteligencia+Artificial;Transformando+ideias+em+projetos."/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-6B172D?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-310B16?style=for-the-badge&logo=serverless&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-17171B?style=for-the-badge&logo=googlemaps&logoColor=A7A7B0"/>
+<img src="https://img.shields.io/badge/SISTEMA-OPERACIONAL-6B172D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINGUAGEM_PRINCIPAL-JAVA-310B16?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCO-BACKEND_+_IA-17171B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `01` // SYSTEM PROFILE
+## `01` // SOBRE MIM
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/USUARIO-BIELRNC-310B16?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-EM_EVOLUCAO-17171B?style=flat-square"/>
+
+</div>
+
+```javascript
+const Gabriel = {
+    nome: "Gabriel Rocha",
+    usuario: "BielRNC",
+    funcao: "Desenvolvedor em formação",
+
+    foco: [
+        "Desenvolvimento Backend",
+        "Java",
+        "Inteligência Artificial",
+        "Desenvolvimento de Software"
+    ],
+
+    conhecimentos: {
+        principal: "Java",
+        complementares: [
+            "JavaScript",
+            "Node.js",
+            "SQL",
+            "APIs REST"
+        ]
+    },
+
+    projetos: [
+        "Jogo desenvolvido em Luau",
+        "Aplicativo antiprocrastinação",
+        "Escritório de agentes de IA"
+    ],
+
+    objetivo: "Transformar ideias em soluções reais"
+};
+```
+
+Sou estudante de desenvolvimento de software, com interesse em programação e foco na área Backend.
+
+Minha principal linguagem de programação é **Java**. Também possuo conhecimentos em JavaScript e Node.js, adquiridos durante minha formação e experiência com desenvolvimento.
+
+Atualmente, busco aprofundar meus conhecimentos em programação, explorar Inteligência Artificial e desenvolver projetos próprios.
+
+---
+
+## `02` // MENTALIDADE DE DESENVOLVIMENTO
+
+Acredito que desenvolver software vai além de escrever código. É entender problemas, planejar soluções e transformar ideias em aplicações.
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM PROFILE                                      ONLINE   │
-├──────────────────────────────────────────────────────────────┤
-│  NAME       : Gabriel Rocha                                   │
-│  USERNAME   : BielRNC                                         │
-│  ROLE       : Backend Developer in Progress                  │
-│  EDUCATION  : Systems Analysis and Development                │
-│  UNIVERSITY : Universidade Católica do Salvador               │
-│  LOCATION   : Salvador, Bahia - Brazil                        │
-│  INTERESTS  : Backend • APIs REST • Software Engineering      │
-└──────────────────────────────────────────────────────────────┘
+       PROCESSO DE DESENVOLVIMENTO
+
+       [ IDEIA ]
+           |
+           v
+       [ PESQUISA ]
+           |
+           v
+       [ PLANEJAMENTO ]
+           |
+           v
+       [ DESENVOLVIMENTO ]
+           |
+           v
+       [ TESTES ]
+           |
+           v
+       [ APRIMORAMENTO ]
+           |
+           v
+       [ PUBLICAÇÃO ]
+
+       STATUS: SEMPRE EVOLUINDO
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e interesse especial na área backend.
-
-Tenho experiência prática no desenvolvimento de **APIs REST utilizando Node.js e JavaScript**, trabalhando com rotas, controllers, organização de projetos e manipulação de requisições HTTP.
-
-Atuei como residente em Desenvolvimento Backend no **CEPEDI**, participando de desafios técnicos, desenvolvimento de soluções e atividades em equipe.
-
-Atualmente, estou aprofundando meus conhecimentos em **Java**, fortalecendo minha lógica de programação e evoluindo constantemente como desenvolvedor.
-
-> Building knowledge. Engineering solutions. Improving every day.
-
 ---
 
-## `02` // TECHNOLOGY STACK
+## `03` // TECNOLOGIAS
 
 <div align="center">
 
-**PROGRAMMING LANGUAGES & BACKEND**
+**LINGUAGEM PRINCIPAL**
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark"/>
 
-**DEVELOPMENT ENVIRONMENT**
+**CONHECIMENTOS COMPLEMENTARES**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=javascript,nodejs&theme=dark"/>
+
+**DESENVOLVIMENTO DE JOGOS**
+
+<img src="https://skillicons.dev/icons?i=lua&theme=dark"/>
+
+**BANCOS DE DADOS**
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+**FERRAMENTAS DE DESENVOLVIMENTO**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
-| Technology | Application |
+| Tecnologia | Conhecimento |
 |:--|:--|
-| JavaScript | Backend Development |
-| Node.js | REST API Development |
-| Java | Currently Learning |
-| REST APIs | Routes, Controllers and HTTP |
-| JSON | Data Integration |
-| Git & GitHub | Version Control |
+| Java | Linguagem principal |
+| JavaScript | Conhecimento complementar |
+| Node.js | Conhecimento complementar |
+| Luau | Em desenvolvimento |
+| SQL | Em aprendizado |
+| APIs REST | Conhecimento prático |
+| JSON | Manipulação de dados |
+| Git | Em aprendizado |
+| GitHub | Em aprendizado |
 
 ---
 
-## `03` // DEVELOPMENT TOOLS
+## `04` // MEUS PROJETOS
 
-<div align="center">
+Projetos que fazem parte da minha jornada de desenvolvimento.
 
-<img src="https://img.shields.io/badge/VS_CODE-17171B?style=for-the-badge&logo=visualstudiocode&logoColor=A7A7B0"/>
-<img src="https://img.shields.io/badge/GIT-17171B?style=for-the-badge&logo=git&logoColor=9E263F"/>
-<img src="https://img.shields.io/badge/GITHUB-17171B?style=for-the-badge&logo=github&logoColor=E8E5E7"/>
-<img src="https://img.shields.io/badge/POSTMAN-17171B?style=for-the-badge&logo=postman&logoColor=9E263F"/>
-<img src="https://img.shields.io/badge/NODE.JS-17171B?style=for-the-badge&logo=nodedotjs&logoColor=9E263F"/>
+| Projeto | Descrição | Situação |
+|:--|:--|:--:|
+| 🎮 Jogo em Luau | Desenvolvimento de um jogo utilizando Luau | 🟡 Em desenvolvimento |
+| ⏱️ Aplicativo Antiprocrastinação | Aplicativo voltado à organização e ao combate à procrastinação | 🟡 Em desenvolvimento |
+| 🤖 Escritório de Agentes IA | Escritório virtual com agentes de IA especializados em diferentes tarefas | 🟡 Em planejamento |
 
-</div>
+<details>
+<summary><b>🎮 Projeto 01 — Jogo em Luau</b></summary>
+
+Desenvolvimento de um jogo utilizando Luau na plataforma Roblox.
+
+**Objetivo:** explorar lógica de programação, desenvolvimento de jogos e criação de experiências interativas.
+
+**Linguagem:** Luau.
+
+</details>
+
+<details>
+<summary><b>⏱️ Projeto 02 — Aplicativo Antiprocrastinação</b></summary>
+
+Desenvolvimento de um aplicativo com foco em ajudar pessoas a combater a procrastinação e melhorar sua organização.
+
+**Objetivo:** criar uma ferramenta que incentive a produtividade, organização e gerenciamento de tarefas.
+
+</details>
+
+<details>
+<summary><b>🤖 Projeto 03 — Escritório de Agentes IA</b></summary>
+
+Projeto de um escritório virtual composto por diferentes agentes de Inteligência Artificial.
+
+A proposta é explorar agentes capazes de executar tarefas específicas e trabalhar em conjunto para realizar atividades.
+
+**Área de interesse:** Backend e Inteligência Artificial.
+
+</details>
 
 ---
 
-## `04` // PROJECT ARCHIVE
-
-<div align="center">
-
-<a href="https://github.com/BielRNC/REPOSITORIO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BielRNC&repo=REPOSITORIO_1&theme=dark&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&icon_color=6B172D&border_color=310B16"/>
-</a>
-
-<a href="https://github.com/BielRNC/REPOSITORIO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BielRNC&repo=REPOSITORIO_2&theme=dark&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&icon_color=6B172D&border_color=310B16"/>
-</a>
-
-</div>
-
----
-
-## `05` // CURRENT OBJECTIVES
+## `05` // APRENDIZADO ATUAL
 
 ```bash
-root@bielrnc:~$ ./current_missions.sh
+root@BielRNC:~$ ./trilha_de_aprendizado.sh
 
-[ACTIVE]  Mastering Java fundamentals
-[ACTIVE]  Improving REST API development
-[ACTIVE]  Strengthening programming logic
-[ACTIVE]  Building backend projects
-[ACTIVE]  Improving Git and GitHub skills
-[ACTIVE]  Learning software engineering practices
+[#####-----] Java
+[####------] JavaScript
+[####------] Node.js
+[###-------] APIs REST
+[##--------] SQL
+[#---------] Git e GitHub
+[----------] Inteligência Artificial
 
-root@bielrnc:~$ _
+----------------------------------------
+MISSÃO: APRENDER -> CONSTRUIR -> EVOLUIR
+----------------------------------------
+
+root@BielRNC:~$ _
+```
+
+*Os indicadores são ilustrativos e não representam percentuais de domínio.*
+
+---
+
+## `06` // ALÉM DO CÓDIGO
+
+A tecnologia é uma das minhas principais áreas de interesse, especialmente pela possibilidade de criar soluções e explorar novas ideias.
+
+Também valorizo:
+
+```text
+> TECNOLOGIA
+> DESENVOLVIMENTO DE SOFTWARE
+> INTELIGÊNCIA ARTIFICIAL
+> DESENVOLVIMENTO PESSOAL
+> APRENDIZADO CONTÍNUO
+> NOVOS DESAFIOS
 ```
 
 ---
 
-## `06` // GITHUB PERFORMANCE
+## `07` // PRÓXIMOS OBJETIVOS
+
+```bash
+root@BielRNC:~$ ./proximos_objetivos.sh
+
+[01] FUNDAMENTOS
+     -> Aprofundar Java e lógica de programação
+     -> Estudar POO e estruturas de dados
+     -> Desenvolver boas práticas de código
+
+[02] DESENVOLVIMENTO BACKEND
+     -> Construir aplicações utilizando Java
+     -> Aprender criação e integração de APIs REST
+     -> Estudar bancos de dados e SQL
+     -> Aprender testes e tratamento de erros
+
+[03] INTELIGÊNCIA ARTIFICIAL
+     -> Explorar conceitos de Inteligência Artificial
+     -> Estudar integração de IA com aplicações
+     -> Desenvolver um escritório de agentes inteligentes
+
+[04] PROJETOS PESSOAIS
+     -> Finalizar meu jogo desenvolvido em Luau
+     -> Finalizar o aplicativo antiprocrastinação
+     -> Desenvolver um escritório de agentes de Inteligência Artificial
+     -> Publicar e documentar projetos utilizando Git e GitHub
+
+[05] EVOLUÇÃO PROFISSIONAL
+     -> Aprimorar Git e GitHub
+     -> Desenvolver autonomia na resolução de problemas
+     -> Evoluir continuamente como desenvolvedor
+
+--------------------------------------------
+OBJETIVO: BACKEND + INTELIGÊNCIA ARTIFICIAL
+STATUS: EM ANDAMENTO
+--------------------------------------------
+
+root@BielRNC:~$ _
+```
+
+---
+
+## `08` // ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BielRNC&show_icons=true&hide_border=true&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&icon_color=6B172D&ring_color=9E263F&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BielRNC&show_icons=true&hide_border=true&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&icon_color=6B172D&include_all_commits=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielRNC&layout=compact&hide_border=true&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&langs_count=8"/>
 
@@ -137,7 +288,7 @@ root@bielrnc:~$ _
 
 ---
 
-## `07` // ACHIEVEMENTS
+## `09` // CONQUISTAS
 
 <div align="center">
 
@@ -147,34 +298,30 @@ root@bielrnc:~$ _
 
 ---
 
-## `08` // CONTRIBUTION SYSTEM
+## `10` // HISTÓRICO DE CONTRIBUIÇÕES
 
 <div align="center">
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BielRNC/BielRNC/output/github-contribution-grid-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BielRNC/BielRNC/output/github-contribution-grid-snake.svg"/>
-<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/BielRNC/BielRNC/output/github-contribution-grid-snake.svg"/>
+<img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/BielRNC/BielRNC/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## `09` // ESTABLISH CONNECTION
+## `11` // VAMOS NOS CONECTAR?
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabriel-rochanc">
-<img src="https://img.shields.io/badge/LINKEDIN-310B16?style=for-the-badge&logo=linkedin&logoColor=E8E5E7"/>
-</a>
-
-<a href="mailto:gabrielrncqpht@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-17171B?style=for-the-badge&logo=gmail&logoColor=A7A7B0"/>
-</a>
-
 <a href="https://github.com/BielRNC">
-<img src="https://img.shields.io/badge/GITHUB-0B0B0E?style=for-the-badge&logo=github&logoColor=E8E5E7"/>
+<img src="https://img.shields.io/badge/GITHUB-17171B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-rochanc/">
+<img src="https://img.shields.io/badge/LINKEDIN-310B16?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -183,16 +330,14 @@ root@bielrnc:~$ _
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B172D,50:310B16,100:08080A&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B172D,50:310B16,100:08080A&height=120&section=footer"/>
 
-<sub>「 The future is engineered, not imagined. 」</sub>
+### "O futuro é construído, não imaginado."
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ENGINEERED_BY-BIELRNC-310B16?style=flat-square&labelColor=0B0B0E"/>
+<img src="https://img.shields.io/badge/CRIADO_POR-BIELRNC-310B16?style=flat-square&labelColor=0B0B0E"/>
 
 <br/>
 
-<sub>© Gabriel Rocha • 2026 • All systems operational.</sub>
+<sub>© 2026 Gabriel Rocha • Todos os sistemas operacionais.</sub>
 
 </div>
