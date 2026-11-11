@@ -270,11 +270,12 @@ root@BielRNC:~$ _
 
 ## `08` // ESTATÍSTICAS DO GITHUB
 
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BielRNC&show_icons=true&hide_border=true&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&icon_color=6B172D&include_all_commits=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=BielRNC&show_icons=true&hide_border=true&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&icon_color=6B172D&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielRNC&layout=compact&hide_border=true&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&langs_count=8"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BielRNC&layout=compact&hide_border=true&bg_color=0B0B0E&title_color=9E263F&text_color=A7A7B0&langs_count=8"/>
 
 <br/><br/>
 
@@ -285,6 +286,7 @@ root@BielRNC:~$ _
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BielRNC&bg_color=0B0B0E&color=A7A7B0&line=6B172D&point=9E263F&area=true&area_color=310B16&hide_border=true"/>
 
 </div>
+
 
 ---
 
