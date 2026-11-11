@@ -292,7 +292,7 @@ root@BielRNC:~$ _
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=BielRNC&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img width="95%" src="https://trophy.ryglcloud.net/?username=BielRNC&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
